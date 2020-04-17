@@ -4,7 +4,7 @@ do same as
 
 ```
 $ brew upgrade php
-$ ln -s /path_to_brew_php/7.4.5 /path_to_phpenv_vers/
+$ ln -s /usr/local/etc/php/7.4 /Users/YOU/.phpenv/bin/phpenv/versions
 $ phpenv global 7.4.5
 ```
 
@@ -13,7 +13,8 @@ $ phpenv global 7.4.5
 - macOS or linux(maybe)
 - HomeBrew (or linuxbrew)
 - phpenv(anyenv)
-- bash
+- bash (already installed in your mac)
+- perl (already installed in your mac)
 
 # why need this?
 
