@@ -8,3 +8,14 @@ $ ln -s /path_to_brew_php/7.4.5 /path_to_phpenv_vers/
 $ phpenv global 7.4.5
 ```
 
+# require
+
+- macOS or linux(maybe)
+- HomeBrew (or linuxbrew)
+
+# why need this?
+
+I'm bored to use php-build and dependency hell.
+
+[more reason (in japanese)](https://speakerdeck.com/uzulla/phpfalsebirudonitukareta-falsede-phpenv-plus-homebrew)
+
